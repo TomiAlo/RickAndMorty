@@ -1,0 +1,38 @@
+.buttonSearch {
+    display: inline-block;
+    padding: 8px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #04ADBF;
+    border-radius: 15px;
+    box-shadow: 0 5px #396b83;
+    font-family: get_schwifty;
+    margin-left: 10px;
+    border-color: #04ADBF;
+}
+
+.buttonSearch:hover {background-color: #038e9e}
+
+.buttonSearch:active {
+background-color: #037986;
+box-shadow: none;
+border-color: #037986;
+transform: translateY(5px);
+}
+
+.input{
+    border: 2px solid #04ADBF;
+    border-radius: 4px;
+    padding: 12px;
+    margin-bottom: 10px;
+    background-color: #04ADBF;
+}
+
+.SearchBar{
+    padding: 25px;
+    padding-left: 1500px;
+}

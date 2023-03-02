@@ -1,0 +1,24 @@
+.box{
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
+
+.box img{
+    border: 2px solid #cfff04;
+    border-radius: 20px;
+}
+
+.buttonClose{
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 20px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: #04ADBF;
+        border: 2px solid #04ADBF;
+        border-radius: 15px;
+        font-family: get_schwifty;
+}
